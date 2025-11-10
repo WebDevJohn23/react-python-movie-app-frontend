@@ -1,16 +1,44 @@
-# React + Vite
+# React Movie App (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Author:** WebDevJohn23  
+**License:** MIT  
+**Status:** Active
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## React Compiler
+This repository contains the **frontend** for the React Movie App.  
+It connects to a separate Python Flask backend hosted on Render that provides live movie data scraped from Regal Cinemas.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Displays current movies fetched from a Flask API
+- Flip-card UI to mark movies as watched or not interested
+- Filters special screenings and re-releases
+- Responsive layout for desktop and mobile
+- Environment-based API configuration (local vs. production)
+
+---
+
+## Tech Stack
+
+- React + Vite
+- CSS3
+- Fetch API for backend integration
+- Deployed on **Vercel**
+
+**Backend:**  
+Python (Flask + Playwright) – hosted separately at  
+`https://python-movie-app.onrender.com`
+
+---
+
+## Setup
+
+### 1. Clone
+```bash
+git clone https://github.com/WebDevJohn23/react-python-movie-app-frontend.git
+cd react-python-movie-app-frontend
