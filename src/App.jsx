@@ -14,6 +14,15 @@ function App() {
         fetchAllMovies();
     }, []);
 
+    const refreshMovies = async () => {
+        const scrollY = window.scrollY;
+        setLoading(true);
+        await fetch(`${API_URL}/api/refresh`, {method: "POST"});
+        await fetchAllMovies();
+        setLoading(false);
+        window.scrollTo(0, scrollY);
+    };
+
     const fetchAllMovies = () => {
         setLoading(true);
         Promise.all([
@@ -175,6 +184,7 @@ function App() {
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
                         ))}
                     </div>
@@ -196,6 +206,7 @@ function App() {
                     />{" "}
                     Hide special screenings, re-releases, and alternate versions
                 </label>
+                <button type="button" onClick={refreshMovies}>Refresh Movies</button>
             </div>
 
             <p className="movie-count">

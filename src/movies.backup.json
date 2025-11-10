@@ -1,79 +1,31 @@
 [
   {
-    "code": "HO00018913",
-    "date_started": "2025-10-16",
-    "poster": "https://regalcdn.azureedge.net/REG/BlackPhone2The/HO00018913/TV_SmallPosterImage/20250604-110206467.jpg",
-    "status": 0,
-    "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua Farmingdale",
-      "Ua Hampton Bays"
-    ],
-    "title": "The Black Phone 2",
-    "updated_at": "2025-11-10",
-    "url": "https://www.regmovies.com/movies/the-black-phone-2-ho00018913"
-  },
-  {
-    "code": "HO00020053",
-    "date_started": "2025-11-10",
-    "poster": "https://regalcdn.azureedge.net/REG/MondayMysteryMovie1110/HO00020053/TV_SmallPosterImage/20251029-111019833.jpg",
-    "status": 0,
-    "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua East Hampton Cinema",
-      "Ua Farmingdale",
-      "Ua Hampton Bays"
-    ],
-    "title": "Monday Mystery Movie (11/10)",
-    "updated_at": "2025-11-10",
-    "url": "https://www.regmovies.com/movies/monday-mystery-movie-1110-ho00020053"
-  },
-  {
     "code": "HO00018657",
     "date_started": "2025-11-06",
     "poster": "https://regalcdn.azureedge.net/REG/PredatorBadlands/HO00018657/TV_SmallPosterImage/20251006-122845595.jpg",
     "status": 0,
     "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua East Hampton Cinema",
-      "Ua Farmingdale",
-      "Ua Hampton Bays"
+      "La Habra",
+      "Nuuuli Place Twin",
+      "Sherman Oaks Galleria"
     ],
     "title": "Predator: Badlands",
     "updated_at": "2025-11-10",
     "url": "https://www.regmovies.com/movies/predator-badlands-ho00018657"
   },
   {
-    "code": "HO00019286",
+    "code": "HO00019257",
     "date_started": "2025-10-23",
-    "poster": "https://regalcdn.azureedge.net/REG/RegrettingYou/HO00019286/TV_SmallPosterImage/20251021-083510759.jpg",
+    "poster": "https://regalcdn.azureedge.net/REG/ChainsawManTheMovieRezeArcDubbed/HO00019257/TV_SmallPosterImage/20250915-090920329.jpg",
     "status": 0,
     "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua Farmingdale"
+      "La Habra",
+      "Nuuuli Place Twin",
+      "Sherman Oaks Galleria"
     ],
-    "title": "Regretting You",
+    "title": "Chainsaw Man - The Movie: Reze Arc (Dub)",
     "updated_at": "2025-11-10",
-    "url": "https://www.regmovies.com/movies/regretting-you-ho00019286"
-  },
-  {
-    "code": "HO00019013",
-    "date_started": "2025-10-23",
-    "poster": "https://regalcdn.azureedge.net/REG/SpringsteenDeliverMeFromNowhere/HO00019013/TV_SmallPosterImage/20250924-120843295.jpg",
-    "status": 0,
-    "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua East Hampton Cinema",
-      "Ua Farmingdale"
-    ],
-    "title": "Springsteen: Deliver Me From Nowhere",
-    "updated_at": "2025-11-10",
-    "url": "https://www.regmovies.com/movies/springsteen-deliver-me-from-nowhere-ho00019013"
+    "url": "https://www.regmovies.com/movies/chainsaw-man-the-movie-reze-arc-dub-ho00019257"
   },
   {
     "code": "HO00019085",
@@ -81,26 +33,199 @@
     "poster": "https://regalcdn.azureedge.net/REG/Bugonia/HO00019085/TV_SmallPosterImage/20250827-112344999.jpg",
     "status": 0,
     "theaters": [
-      "Deer Park",
-      "Ronkonkoma",
-      "Ua East Hampton Cinema",
-      "Ua Farmingdale"
+      "La Habra",
+      "Sherman Oaks Galleria"
     ],
     "title": "Bugonia",
     "updated_at": "2025-11-10",
     "url": "https://www.regmovies.com/movies/bugonia-ho00019085"
   },
   {
-    "code": "HO00018512",
-    "date_started": "2025-10-09",
-    "poster": "https://regalcdn.azureedge.net/REG/TronAres/HO00018512/TV_SmallPosterImage/20250904-091009870.jpg",
+    "code": "HO00019989",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/DieMyLove/HO00019989/TV_SmallPosterImage/20251027-085731269.jpg",
     "status": 0,
     "theaters": [
-      "Deer Park",
-      "Ua Farmingdale"
+      "La Habra",
+      "Sherman Oaks Galleria"
     ],
-    "title": "Tron: Ares",
+    "title": "Die My Love",
     "updated_at": "2025-11-10",
-    "url": "https://www.regmovies.com/movies/tron-ares-ho00018512"
+    "url": "https://www.regmovies.com/movies/die-my-love-ho00019989"
+  },
+  {
+    "code": "HO00019325",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/SarahsOil/HO00019325/TV_SmallPosterImage/20250806-161024585.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Sarah's Oil",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/sarahs-oil-ho00019325"
+  },
+  {
+    "code": "HO00019844",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/Christy/HO00019844/TV_SmallPosterImage/20251009-120446652.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Christy",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/christy-ho00019844"
+  },
+  {
+    "code": "HO00019286",
+    "date_started": "2025-10-23",
+    "poster": "https://regalcdn.azureedge.net/REG/RegrettingYou/HO00019286/TV_SmallPosterImage/20251021-083510759.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Regretting You",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/regretting-you-ho00019286"
+  },
+  {
+    "code": "HO00018913",
+    "date_started": "2025-10-16",
+    "poster": "https://regalcdn.azureedge.net/REG/BlackPhone2The/HO00018913/TV_SmallPosterImage/20250604-110206467.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "The Black Phone 2",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/the-black-phone-2-ho00018913"
+  },
+  {
+    "code": "HO00019573",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/Nuremberg/HO00019573/TV_SmallPosterImage/20251010-125121133.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Nuremberg",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/nuremberg-ho00019573"
+  },
+  {
+    "code": "HO00019258",
+    "date_started": "2025-10-23",
+    "poster": "https://regalcdn.azureedge.net/REG/ChainsawManTheMovieRezeArcSubbed/HO00019258/TV_SmallPosterImage/20250915-090956014.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Chainsaw Man - The Movie: Reze Arc (Sub)",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/chainsaw-man-the-movie-reze-arc-sub-ho00019258"
+  },
+  {
+    "code": "HO00020053",
+    "date_started": "2025-11-10",
+    "poster": "https://regalcdn.azureedge.net/REG/MondayMysteryMovie1110/HO00020053/TV_SmallPosterImage/20251029-111019833.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra",
+      "Sherman Oaks Galleria"
+    ],
+    "title": "Monday Mystery Movie (11/10)",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/monday-mystery-movie-1110-ho00020053"
+  },
+  {
+    "code": "HO00020134",
+    "date_started": "2025-11-10",
+    "poster": "https://regalcdn.azureedge.net/REG/NOVSZeroDarkThirty/HO00020134/TV_SmallPosterImage/20251104-082100254.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "NOVS: Zero Dark Thirty",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/novs-zero-dark-thirty-ho00020134"
+  },
+  {
+    "code": "HO00019230",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/GrandPrixofEurope/HO00019230/TV_SmallPosterImage/20250724-153108653.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "Grand Prix of Europe",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/grand-prix-of-europe-ho00019230"
+  },
+  {
+    "code": "HO00019607",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/KarenKingsburysTheChristmasRing/HO00019607/TV_SmallPosterImage/20250926-123137965.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "Karen Kingsbury's The Christmas Ring",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/karen-kingsburys-the-christmas-ring-ho00019607"
+  },
+  {
+    "code": "HO00020002",
+    "date_started": "2025-11-07",
+    "poster": "https://regalcdn.azureedge.net/REG/AllisMerryBright/HO00020002/TV_SmallPosterImage/20251017-091351675.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "All is Merry & Bright",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/all-is-merry-bright-ho00020002"
+  },
+  {
+    "code": "HO00018864",
+    "date_started": "2025-10-16",
+    "poster": "https://regalcdn.azureedge.net/REG/GoodFortune/HO00018864/TV_SmallPosterImage/20250818-092611774.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "Good Fortune",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/good-fortune-ho00018864"
+  },
+  {
+    "code": "HO00019914",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/UnexpectedChristmas/HO00019914/TV_SmallPosterImage/20251104-124102325.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "Unexpected Christmas",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/unexpected-christmas-ho00019914"
+  },
+  {
+    "code": "HO00019909",
+    "date_started": "2025-10-29",
+    "poster": "https://regalcdn.azureedge.net/REG/StitchHead/HO00019909/TV_SmallPosterImage/20251006-115950501.jpg",
+    "status": 0,
+    "theaters": [
+      "La Habra"
+    ],
+    "title": "Stitch Head",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/stitch-head-ho00019909"
   }
 ]
