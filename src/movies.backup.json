@@ -1,0 +1,106 @@
+[
+  {
+    "code": "HO00018913",
+    "date_started": "2025-10-16",
+    "poster": "https://regalcdn.azureedge.net/REG/BlackPhone2The/HO00018913/TV_SmallPosterImage/20250604-110206467.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua Farmingdale",
+      "Ua Hampton Bays"
+    ],
+    "title": "The Black Phone 2",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/the-black-phone-2-ho00018913"
+  },
+  {
+    "code": "HO00020053",
+    "date_started": "2025-11-10",
+    "poster": "https://regalcdn.azureedge.net/REG/MondayMysteryMovie1110/HO00020053/TV_SmallPosterImage/20251029-111019833.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua East Hampton Cinema",
+      "Ua Farmingdale",
+      "Ua Hampton Bays"
+    ],
+    "title": "Monday Mystery Movie (11/10)",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/monday-mystery-movie-1110-ho00020053"
+  },
+  {
+    "code": "HO00018657",
+    "date_started": "2025-11-06",
+    "poster": "https://regalcdn.azureedge.net/REG/PredatorBadlands/HO00018657/TV_SmallPosterImage/20251006-122845595.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua East Hampton Cinema",
+      "Ua Farmingdale",
+      "Ua Hampton Bays"
+    ],
+    "title": "Predator: Badlands",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/predator-badlands-ho00018657"
+  },
+  {
+    "code": "HO00019286",
+    "date_started": "2025-10-23",
+    "poster": "https://regalcdn.azureedge.net/REG/RegrettingYou/HO00019286/TV_SmallPosterImage/20251021-083510759.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua Farmingdale"
+    ],
+    "title": "Regretting You",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/regretting-you-ho00019286"
+  },
+  {
+    "code": "HO00019013",
+    "date_started": "2025-10-23",
+    "poster": "https://regalcdn.azureedge.net/REG/SpringsteenDeliverMeFromNowhere/HO00019013/TV_SmallPosterImage/20250924-120843295.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua East Hampton Cinema",
+      "Ua Farmingdale"
+    ],
+    "title": "Springsteen: Deliver Me From Nowhere",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/springsteen-deliver-me-from-nowhere-ho00019013"
+  },
+  {
+    "code": "HO00019085",
+    "date_started": "2025-10-23",
+    "poster": "https://regalcdn.azureedge.net/REG/Bugonia/HO00019085/TV_SmallPosterImage/20250827-112344999.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ronkonkoma",
+      "Ua East Hampton Cinema",
+      "Ua Farmingdale"
+    ],
+    "title": "Bugonia",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/bugonia-ho00019085"
+  },
+  {
+    "code": "HO00018512",
+    "date_started": "2025-10-09",
+    "poster": "https://regalcdn.azureedge.net/REG/TronAres/HO00018512/TV_SmallPosterImage/20250904-091009870.jpg",
+    "status": 0,
+    "theaters": [
+      "Deer Park",
+      "Ua Farmingdale"
+    ],
+    "title": "Tron: Ares",
+    "updated_at": "2025-11-10",
+    "url": "https://www.regmovies.com/movies/tron-ares-ho00018512"
+  }
+]
