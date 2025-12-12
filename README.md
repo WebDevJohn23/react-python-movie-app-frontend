@@ -6,6 +6,19 @@
 
 ---
 
+## Project Status
+
+This repository represents a point-in-time build created for demonstration, experimentation, or portfolio review.
+
+- Development state may vary over time
+- Some dependencies or external integrations may require updates to run locally
+- Code is provided for review of structure, patterns, and problem-solving approach
+- Not intended as a drop-in production deliverable
+
+This project is best evaluated by reviewing the codebase and commit history rather than expecting long-term maintenance or turnkey execution.
+
+---
+
 ## Overview
 
 This repository contains the **frontend** for the React Movie App.  
@@ -101,6 +114,18 @@ react-python-movie-app-frontend/
 |-----------|---------|-------------|
 | `/api/movies` | GET | Returns movie list as JSON |
 | `/api/movies/<code>/status` | PUT | Updates movie status (watched / not interested) |
+
+## Project Status
+
+This repository represents a point-in-time build created for demonstration, experimentation, or portfolio review.
+
+- Development state may vary over time
+- Some dependencies or external integrations may require updates to run locally
+- Code is provided for review of structure, patterns, and problem-solving approach
+- Not intended as a drop-in production deliverable
+
+This project is best evaluated by reviewing the codebase and commit history rather than expecting long-term maintenance or turnkey execution.
+
 
 ---
 
